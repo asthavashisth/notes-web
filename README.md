@@ -1,0 +1,1 @@
+A dynamic notes-taking app built with HTML, CSS, and JavaScript. Users can create, edit, and delete notes with ease. Notes are persistently stored using localStorage, ensuring they remain accessible across page reloads. Features include multi-line support and intuitive editing functionalities.
